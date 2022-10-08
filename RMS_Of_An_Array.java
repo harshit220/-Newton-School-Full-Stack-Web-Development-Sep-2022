@@ -1,3 +1,8 @@
+/* Author = Harshit Sachan */
+/* GitHub Id = harshit220 */
+/* Language = JAVA */
+/* Address = Noida,Uttar Pradesh,INDIA (201301)
+
 RMS of an array
 easy
 Time Limit: 2 sec
